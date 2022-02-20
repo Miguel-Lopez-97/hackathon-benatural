@@ -35,8 +35,13 @@
  > ⚠️ _"To get the Application running you'll need to run the frontend, backend and the table in h2-console server at the same time."_
  
 - - - -
+## RECENTLY MEMBERS
+fix some of style and new function on backend
+- Miguel Moreno @[Miguel-Lopez-97](https://github.com/Miguel-Lopez-97)
+   -  _(SIMPLON - Colombia)_
+       -  _(UX Design|Front-end|Back-end)_
 
-## Be Natural🍃- GROUP 12 - MEMBERS
+## Be Natural🍃- GROUP 12 - ORIGINAL MEMBERS
 - Carolina Loaiza @[carolo180](https://github.com/carolo180)
     -  _(SIMPLON - Colombia)_
        -  _(UX Design|Front-end)_
@@ -45,7 +50,7 @@
        -  _(Front-end|Back-end)_
 - Miguel Moreno @[Miguel-Lopez-97](https://github.com/Miguel-Lopez-97)
    -  _(SIMPLON - Colombia)_
-       -  (UX Design|Front-end)_
+       -  _(UX Design|Front-end)_
 - Faby Broc @[FabyBroc](https://github.com/FabyBroc)
     -  _(FactoriaF5 - Barcelona)_
        -  _(Back-end)_
