@@ -9,6 +9,8 @@
 - Discord and Zoom (communication)
 - Github pages (workplace repository)
 - Trello (our team's Kanban board)
+- Original GitHub repository 
+   - [Click here to open the link](https://github.com/marvienicole/hackathon-benatural.git)
 
 ### Front-end TECHNOLOGIES:
 -  React : 
